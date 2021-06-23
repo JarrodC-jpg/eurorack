@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2020-11-25T22:36:04Z",
+        "GenerationSoftware": {
+            "Application": "EAGLE",
+            "Vendor": "Autodesk",
+            "Version": "9.6.2"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.57,
+        "LayerNumber": 2,
+        "Name": {
+            "ProjectId": "clouds_v30"
+        },
+        "Owner": "Jarrod Coffin <jarrod.coffin@wsu.edu>",
+        "Size": {
+            "X": 88.9,
+            "Y": 106.045
+        }
+    }
+}
